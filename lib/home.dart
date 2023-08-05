@@ -9,7 +9,7 @@ class Home extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "MyApp",
+          "Flashlight",
         ),
         backgroundColor: Colors.grey,
       ),
